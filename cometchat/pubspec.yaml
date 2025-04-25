@@ -1,0 +1,11 @@
+name: cometchat_flutter_app
+description: A Flutter app with CometChat UI Kit
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  cometchat_chat_uikit: ^5.0.0
